@@ -52,7 +52,7 @@ Open a terminal in the project directory and run:
 
 ```bash
 gcc -std=c11 -Wall -Wextra -o quizbot quizbot.c
-
+```
 
 ### Launch
 Then launch the game by typing:
