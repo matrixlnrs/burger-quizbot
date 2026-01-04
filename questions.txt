@@ -1,0 +1,120 @@
+# Format: Theme;Difficulte(1-3);Question;Reponses(séparées par |)
+# --- GEOGRAPHIE ---
+Geo;1;Quelle est la capitale de la France ?;PARIS
+Geo;1;Quelle est la capitale de l'Espagne ?;MADRID
+Geo;1;Dans quel pays se trouve la tour de Pise ?;ITALIE
+Geo;1;Quelle est la capitale des États-Unis ?;WASHINGTON|WASHINGTON DC
+Geo;1;Sur quel continent se trouve le Brésil ?;AMERIQUE DU SUD|AMERIQUE
+Geo;1;Quel pays a pour capitale Londres ?;ROYAUME-UNI|ANGLETERRE
+Geo;2;Quel est le plus grand océan du monde ?;PACIFIQUE|OCEAN PACIFIQUE
+Geo;2;Combien de continents y a-t-il (modèle à 7) ?;7|SEPT
+Geo;2;Quelle est la capitale de l'Allemagne ?;BERLIN
+Geo;2;Quel pays a la forme d'une botte ?;ITALIE
+Geo;2;Dans quel pays se trouve le Taj Mahal ?;INDE
+Geo;3;Quelle est la capitale de l'Australie ?;CANBERRA
+Geo;3;Quel fleuve traverse l'Egypte ?;NIL|LE NIL
+Geo;3;Quelle est la capitale du Canada ?;OTTAWA
+Geo;3;Quel est le plus grand désert chaud du monde ?;SAHARA
+Geo;3;Quel est le plus long fleuve d'Europe ?;VOLGA
+
+# --- HISTOIRE ---
+Hist;1;En quelle année a eu lieu la Révolution française ?;1789
+Hist;1;Qui était le premier empereur des Français ?;NAPOLEON|NAPOLEON BONAPARTE|BONAPARTE
+Hist;1;Quelle célèbre bataille a eu lieu en 1515 ?;MARIGNAN
+Hist;1;En quelle année a fini la Seconde Guerre mondiale ?;1945
+Hist;2;En quelle année a débuté la Première Guerre mondiale ?;1914
+Hist;2;Qui a découvert l'Amérique en 1492 ?;CHRISTOPHE COLOMB|COLOMB
+Hist;2;Qui a dit "I have a dream" ?;MARTIN LUTHER KING|KING
+Hist;2;En quelle année l'homme a-t-il marché sur la Lune ?;1969
+Hist;3;Quel roi de France était surnommé le Roi Soleil ?;LOUIS XIV|LOUIS 14
+Hist;3;Date de la chute du mur de Berlin ?;1989
+Hist;3;Qui était le président des USA pendant la guerre de Sécession ?;LINCOLN|ABRAHAM LINCOLN
+Hist;3;Quel traité a mis fin à la Première Guerre mondiale ?;TRAITE DE VERSAILLES|VERSAILLES
+
+# --- SPORT ---
+Sport;1;Quel sport se joue avec un ballon ovale ?;RUGBY
+Sport;1;Combien de joueurs dans une équipe de football sur le terrain ?;11|ONZE
+Sport;1;Sur quelle surface joue-t-on au billard ?;TABLE|TAPIS VERT
+Sport;1;Quel objet frappe-t-on au tennis ?;BALLE|BALLE JAUNE
+Sport;1;Quelle est la couleur du maillot du leader du Tour de France ?;JAUNE
+Sport;1;Combien d'anneaux y a-t-il sur le drapeau olympique ?;5|CINQ
+Sport;2;Dans quel sport utilise-t-on un volant ?;BADMINTON
+Sport;2;Quel pays a gagné la coupe du monde de foot 1998 ?;FRANCE
+Sport;2;Quel est le sport national du Japon (lutte) ?;SUMO
+Sport;2;Comment appelle-t-on l'objet transmis lors d'une course de relais ?;TEMOIN|BATON
+Sport;2;Combien d'épreuves compte un décathlon ?;10|DIX
+Sport;2;Quelle est la distance officielle d'un marathon (en km environ) ?;42|42 KM|42.195
+Sport;2;Sur quelle surface se joue le tournoi de Roland Garros ?;TERRE BATTUE
+Sport;2;Combien de joueurs composent une équipe de basket sur le terrain ?;5|CINQ
+Sport;2;Quel est le prénom du sprinteur Bolt ?;USAIN
+Sport;3;Combien de trous y a-t-il sur un parcours de golf standard ?;18|DIX-HUIT
+Sport;3;En quelle année ont eu lieu les premiers JO modernes ?;1896
+Sport;3;Quelle ville a organisé les JO d'été de 2012 ?;LONDRES
+Sport;3;Quel est le record du monde du 100m masculin (en secondes) ?;9.58|9,58
+Sport;3;Comment s'appelle le saut en hauteur où l'on passe le dos en premier ?;FOSBURY
+Sport;3;Au judo, quel grade vient après la ceinture marron ?;NOIRE|CEINTURE NOIRE
+Sport;3;Quelle arme n'existe PAS en escrime : Fleuret, Sabre ou Couteau ?;COUTEAU
+
+# --- SCIENCES ---
+Sci;1;Quel est le symbole chimique de l'eau ?;H2O
+Sci;1;Combien de pattes a une araignée ?;8|HUIT
+Sci;1;Quel astre nous éclaire le jour ?;SOLEIL|LE SOLEIL
+Sci;1;Quel organe pompe le sang dans le corps ?;COEUR
+Sci;2;Quelle planète est surnommée la planète rouge ?;MARS
+Sci;2;A quelle température l'eau bout-elle (en degrés Celsius) ?;100|CENT
+Sci;2;Quel est le minerai naturel le plus dur ?;DIAMANT
+Sci;2;Quel est le plus grand mammifère marin ?;BALEINE|BALEINE BLEUE
+Sci;3;Qui a formulé la théorie de la relativité générale ?;EINSTEIN|ALBERT EINSTEIN
+Sci;3;Quel gaz les plantes absorbent-elles principalement ?;CO2|DIOXYDE DE CARBONE
+Sci;3;Quel est le symbole chimique de l'Or ?;AU
+Sci;3;Quelle est la vitesse de la lumière (en km/s environ) ?;300000
+
+# --- CULTURE ---
+Cult;1;Combien de lettres compte l'alphabet français ?;26|VINGT-SIX
+Cult;1;Quelle est la couleur du cheval blanc d'Henri IV ?;BLANC
+Cult;1;Qui a écrit la saga Harry Potter ?;ROWLING|JK ROWLING
+Cult;2;Qui a peint la Joconde ?;LEONARD DE VINCI|DA VINCI|VINCI
+Cult;2;Quel est le livre le plus vendu au monde ?;LA BIBLE|BIBLE
+Cult;2;Quel dieu grec règne sur la mer ?;POSEIDON
+Cult;2;Dans quel musée se trouve la Joconde ?;LOUVRE
+Cult;3;Dans quelle ville se déroule le festival de cinéma le plus célèbre de France ?;CANNES
+Cult;3;Qui a écrit "Les Misérables" ?;VICTOR HUGO|HUGO
+Cult;3;Qui a écrit "L'Étranger" ?;CAMUS|ALBERT CAMUS
+Cult;3;Quel peintre s'est coupé l'oreille ?;VAN GOGH
+
+# --- CINEMA & TV ---
+Cine;1;Qui est le père de Luke Skywalker ?;DARTH VADOR|VADOR|ANAKIN
+Cine;1;Quel super-héros est un homme chauve-souris ?;BATMAN
+Cine;1;Quel est le prénom de l'ogre vert de Dreamworks ?;SHREK
+Cine;2;Quel film met en scène un paquebot qui coule ?;TITANIC
+Cine;2;Quel acteur joue Jack Sparrow ?;JOHNNY DEPP|DEPP
+Cine;2;Dans quelle ville habite Batman ?;GOTHAM|GOTHAM CITY
+Cine;3;Qui a réalisé le film "Pulp Fiction" ?;TARANTINO|QUENTIN TARANTINO
+Cine;3;Quel est le premier long-métrage de Disney ?;BLANCHE NEIGE|BLANCHE-NEIGE
+
+# --- VRAI OU FAUX ---
+Geo;1;Vrai ou Faux : L'Afrique est un pays.;FAUX
+Sci;1;Vrai ou Faux : La Terre est plate.;FAUX
+Sci;1;Vrai ou Faux : Les dauphins sont des mammifères.;VRAI
+Hist;2;Vrai ou Faux : Cléopâtre était égyptienne (d'origine grecque).;VRAI
+Cult;2;Vrai ou Faux : Le piano est un instrument à cordes.;VRAI
+Sci;1;Vrai ou Faux : Les tomates sont des fruits.;VRAI
+Geo;3;Vrai ou Faux : L'Everest est en Europe.;FAUX
+Hist;2;Vrai ou Faux : Napoléon est mort à Paris.;FAUX
+Sport;2;Vrai ou Faux : Le marathon fait plus de 40km.;VRAI
+
+# --- INFORMATIQUE ---
+Info;1;Quel langage de programmation a été créé par Dennis Ritchie ?;C|LE C
+Info;1;Quel animal est la mascotte de Linux ?;MANCHOT|PINGOUIN|TUX
+Info;2;Que signifie CPU ?;PROCESSUR|CENTRAL PROCESSING UNIT
+Info;2;Qui a co-fondé Microsoft ?;BILL GATES|GATES
+Info;3;Quel est l'ancêtre d'Internet ?;ARPANET
+Info;3;Que signifie le S dans HTTPS ?;SECURE|SECURITE
+
+# --- MUSIQUE & BD ---
+Musi;1;Combien de cordes a une guitare standard ?;6|SIX
+Musi;2;Qui est surnommé le Roi de la Pop ?;MICHAEL JACKSON|JACKSON
+Musi;3;Combien de touches a un piano standard ?;88
+BD;1;Quel est le nom du chien de Tintin ?;MILOU
+BD;2;Quel gaulois est tombé dans la marmite quand il était petit ?;OBELIX
+BD;3;Qui est le créateur de Dragon Ball ?;TORIYAMA|AKIRA TORIYAMA
